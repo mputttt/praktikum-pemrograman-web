@@ -1,6 +1,0 @@
-- [x] Create login.html with login form
-- [x] Add "Login" link to navigation in index.html
-- [x] Add "Login" link to navigation in cart.html
-- [x] Add "Login" link to navigation in checkout.html
-- [x] Add CSS styles for login form in css/style.css
-- [x] Update js/app.js to include login logic and navigation update
